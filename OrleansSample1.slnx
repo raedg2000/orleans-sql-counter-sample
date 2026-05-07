@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="OrleansClient/OrleansClient.csproj" />
+  <Project Path="OrleansCounterAPI/OrleansCounterAPI.csproj" />
+  <Project Path="OrleansGrains/OrleansGrains.csproj" />
+  <Project Path="OrleansSilos/OrleansSilos.csproj" />
+</Solution>
